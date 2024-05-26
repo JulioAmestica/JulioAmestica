@@ -5,7 +5,6 @@ public void Developer(): IHuman
 {
   string Title {get;set;}
   int Experiencie {get:set;}
-  string[] Language {get;set;}
   string[] Technologies {get;set;}
   string[] Databases {get;set;}
   string[] Clouds {get;set;}
