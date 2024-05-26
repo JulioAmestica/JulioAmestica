@@ -23,7 +23,7 @@ me.Experiencie=20;
 me.Technologies=["NET/c#", "Angular", "React"];
 me.Databases= ["MS SQL", "Oracle", "MySQL", "MariaDB"];
 me.Clouds=["Azure","AWS"];
-me.LinkedIn="[https://www.linkedin.com/in/julioamestica/](https://www.linkedin.com/in/julioamestica/)";
+me.LinkedIn="https://www.linkedin.com/in/julioamestica/";
 ```
 <!---
 JulioAmestica/JulioAmestica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
