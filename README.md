@@ -19,7 +19,7 @@ me.Display="Man";
 
 me.Title="Software Engineer"
 me.Experiencie=20;
-me.Technologies=["NET/c#", "Angular", "React"];
+me.Technologies=["NET/c#", "API REST", "Angular", "React"];
 me.Databases= ["MS SQL", "Oracle", "MySQL", "MariaDB"];
 me.Clouds=["Azure","AWS"];
 me.LinkedIn="https://www.linkedin.com/in/julioamestica/";
